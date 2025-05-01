@@ -35,20 +35,6 @@ A full-stack MERN application for discovering and exploring video games. Built w
    npm run install-all
    ```
 
-## Environment Setup
-
-1. Create a `.env` file in the backend directory with the following variables:
-   ```
-   PORT=5000
-   MONGODB_URI=your_mongodb_uri
-   JWT_SECRET=your_jwt_secret
-   ```
-
-2. Create a `.env` file in the frontend directory with:
-   ```
-   REACT_APP_API_URL=http://localhost:5000
-   ```
-
 ## Running the Application
 
 Development mode:
